@@ -1,8 +1,9 @@
+package ejercicio5;
 public class PlatoServido {
     private int valoracion;
     private Persona persona;
     private Plato plato;
-    
+
     private Restaurante restaurante;
 
     public PlatoServido(Persona persona, Plato plato, Restaurante restaurante, int valoracion) {

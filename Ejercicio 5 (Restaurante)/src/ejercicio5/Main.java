@@ -1,8 +1,4 @@
-/*
-  El Main crea la milanesa servida en Don Pepe y en La Parrilla (dos PlatoServido distintos),
-  y verifica que a Ana le gusta la de Don Pepe pero NO la de La Parrilla.
-  El modelo distingue el gusto por restaurante.
- */
+package ejercicio5;
 
 public class Main {
     public static void main(String[] args) {
